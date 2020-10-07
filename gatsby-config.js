@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Disco Sopa Pitic | Hermosillo, Sonora, México',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Somos una iniciativa ciudadana que tiene como objetivo la concientización del desperdicio alimentario en nuestra comunidad mediante la creación de espacios de aprendizaje, participación y colaboración en un ambiente festivo y musical.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
