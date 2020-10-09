@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Disco Sopa Pitic | Hermosillo, Sonora, México',
+    title: 'Disco Sopa Pitic - Hermosillo, Sonora, México',
     description:
       'Somos una iniciativa ciudadana que tiene como objetivo la concientización del desperdicio alimentario en nuestra comunidad mediante la creación de espacios de aprendizaje, participación y colaboración en un ambiente festivo y musical.',
   },
