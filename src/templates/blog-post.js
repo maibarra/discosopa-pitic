@@ -5,6 +5,7 @@ import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import { DiscussionEmbed } from 'disqus-react'
 
 export const BlogPostTemplate = ({
   content,
@@ -42,6 +43,18 @@ export const BlogPostTemplate = ({
           </div>
         </div>
       </div>
+      <DiscussionEmbed
+    shortname='disco-sopa-pitic'
+    config={
+        {
+            url: this.props.article.url,
+            identifier: this.props.article.id,
+            title: this.props.article.title,
+            language: 'es_MX' //e.g. for Spanish	
+        }
+    }
+/>
+
     </section>
   )
 }
