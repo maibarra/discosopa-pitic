@@ -48,7 +48,7 @@ export const BlogPostTemplate = ({
     config={
         {
             url: 'https://discosopapitic.com',
-            identifier: 'null',
+            identifier: helmet ,
             title: title ,
             language: 'es_MX' //e.g. for Spanish	
         }
