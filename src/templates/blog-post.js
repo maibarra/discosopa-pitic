@@ -17,6 +17,8 @@ export const BlogPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content
 
+global.props.article.url = 'https://discosopapitic.com'
+
   return (
     <section className="section">
       {helmet || ''}
@@ -47,9 +49,9 @@ export const BlogPostTemplate = ({
     shortname='disco-sopa-pitic'
     config={
         {
-            url: this.props.article.url,
-            identifier: this.props.article.id,
-            title: this.props.article.title,
+            url: 'https://discosopapitic.com',
+            identifier: 'null',
+            title: post.frontmatter.title,
             language: 'es_MX' //e.g. for Spanish	
         }
     }
