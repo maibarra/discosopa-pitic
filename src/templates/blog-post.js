@@ -17,8 +17,6 @@ export const BlogPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content
 
-global.props.article.url = 'https://discosopapitic.com'
-
   return (
     <section className="section">
       {helmet || ''}
