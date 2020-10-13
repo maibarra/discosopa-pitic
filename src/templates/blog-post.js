@@ -47,7 +47,7 @@ export const BlogPostTemplate = ({
     shortname='disco-sopa-pitic'
     config={
         {
-            url: 'https://discosopapitic.com',
+            url: 'https://discosopapitic.com/'.helmet ,
             identifier: helmet ,
             title: title ,
             language: 'es_MX' //e.g. for Spanish	
