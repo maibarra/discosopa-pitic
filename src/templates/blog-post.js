@@ -49,7 +49,7 @@ export const BlogPostTemplate = ({
         {
             url: 'https://discosopapitic.com',
             identifier: 'null',
-            title: post.frontmatter.title,
+            title: title ,
             language: 'es_MX' //e.g. for Spanish	
         }
     }
