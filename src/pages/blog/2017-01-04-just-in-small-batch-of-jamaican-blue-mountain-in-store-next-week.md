@@ -4,7 +4,7 @@ title: "Just in: small batch of Jamaican Blue Mountain in store next week"
 date: 2020-10-15T23:00:37.097Z
 description: Una manera distinta de cambiar al mundo
 featuredpost: true
-featuredimage: /img/products-full-width.jpg
+featuredimage: /img/flavor_wheel.jpg
 tags:
   - disco sopa
   - eventos
