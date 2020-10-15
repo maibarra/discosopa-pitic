@@ -11,13 +11,11 @@ tags:
   - comida
   - chefs
 ---
-## **Escrito por:** [Emett Berrelleza](twitter.com/emett)
+## **Escrito por:** [Emett Berrelleza](https://twitter.com/jack)
 
 We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
 
 Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
-
-
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/NhmYBermj3Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
