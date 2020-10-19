@@ -1,5 +1,5 @@
 ---
-heading: "Creando conciencia sobre lo que llevamos a la mesa "
+heading: "Crear conciencia sobre lo que llevamos a la mesa "
 path: /products
 templateKey: product-page
 title: Nuestra Misión
