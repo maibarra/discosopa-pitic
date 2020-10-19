@@ -18,7 +18,7 @@ main:
     image: /img/unnamed.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/p1340332.jpg
   image3:
     alt: Coffee beans
     image: /img/p1340338.jpg
