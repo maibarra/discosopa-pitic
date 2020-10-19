@@ -3,7 +3,7 @@ heading: "Creando conciencia sobre lo que llevamos a la mesa "
 path: /products
 templateKey: product-page
 title: Nuestra Misión
-image: /img/p1340338.jpg
+image: /img/p1340380.jpg
 description: La reducción del desperdicio de alimentos para reducir el hambre en
   nuestra comunidad  y por ende reducir el impacto  ambiental
 intro:
@@ -15,13 +15,13 @@ main:
   description: "\n"
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/unnamed.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/p1340338.jpg
 testimonials:
   - author: Chef voluntario Disco Sopa 2020
     quote: "Fue genial poder aportar conocimiento y apoyar a muchas familias ojalá
