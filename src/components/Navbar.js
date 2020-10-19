@@ -67,7 +67,7 @@ const Navbar = class extends React.Component {
                 Sobre DSP
               </Link>
               <Link className="navbar-item" to="/products">
-                Nosotros
+                Nuestra Misión
               </Link>
               <Link className="navbar-item" to="/contact">
                 Contacto
