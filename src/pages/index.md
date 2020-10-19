@@ -1,55 +1,41 @@
 ---
 templateKey: index-page
-title: Disco Sopa Pitic 2020
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: ¡Entre más consciente, más ambiente!
+title: "Disco Sopa Pitic "
+image: /img/p1340378.jpg
+heading: "A menor desperdicio, menos hambre "
+subheading: ¡Juntos podemos transformar el desperdicio en beneficios para
+  nuestra comunidad!
 mainpitch:
-  title: ¿Por qué Disco Sopa?
+  title: ¿Por qué Disco Sopa Pitic ?
   description: >
-    DSP is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+    Somos una iniciativa ciudadana que tiene como objetivo la concientización
+    del desperdicio alimentario en nuestra comunidad mediante la creación de
+    espacios de aprendizaje, participación y colaboración en un ambiente festivo
+    y musical
+description: "Organizamos eventos de rescate alimentario a los que llamamos
+  Disco Sopa, se realiza mediante estos tres pasos:"
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/whatsapp-image-2020-10-17-at-20.06.27.jpeg
+      text: >+
+        1. Rescate alimentario:
+
+        Rescatamos  alimento  mediante la recolección en negocios, mercados, restaurantes y aportaciones de la sociedad civil.  Utilizamos la palabra rescate, porque estos alimentos terminarían como desecho por cuestiones culturales y estéticas.  
+
+    - image: /img/p1340366.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        2. Preparación de alimentos
+
+        Enseñamos formas creativas de utilizar estos ingredientes para su  aprovechamiento integral y buscamos que esto sea replicado por los asistentes en su entorno y generar un cambio de paradigma alimentario.
+    - image: /img/62047002_1294498970712343_5624151964922150912_n.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+        3. Aprendizaje festivo
+
+        Sensibilizamos a los asistentes mostrando cifras globales y locales asociadas al desperdicios en términos sociales, económicos, ecológico y alimentario.  
+
+        Otras formas de socializar esta problemática son a través de conferencias, pláticas y talleres en distintos formatos para todo tipo de público. 
+  heading: "        "
+  description: "       "
 main:
   heading: Great coffee with no compromises
   description: >
