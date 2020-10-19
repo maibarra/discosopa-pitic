@@ -17,19 +17,19 @@ description: "Organizamos eventos de rescate alimentario a los que llamamos
 intro:
   blurbs:
     - image: /img/whatsapp-image-2020-10-17-at-20.06.27.jpeg
-      text: >+
+      text: >-
         1. Rescate alimentario:
 
-        Rescatamos  alimento  mediante la recolección en negocios, mercados, restaurantes y aportaciones de la sociedad civil.  Utilizamos la palabra rescate, porque estos alimentos terminarían como desecho por cuestiones culturales y estéticas.  
 
+        Rescatamos  alimento  mediante la recolección en negocios, mercados, restaurantes y aportaciones de la sociedad civil.  Utilizamos la palabra rescate, porque estos alimentos terminarían como desecho por cuestiones culturales y estéticas.
     - image: /img/p1340366.jpg
       text: >
-        2. Preparación de alimentos
+        2. Preparación de alimentos:
 
         Enseñamos formas creativas de utilizar estos ingredientes para su  aprovechamiento integral y buscamos que esto sea replicado por los asistentes en su entorno y generar un cambio de paradigma alimentario.
     - image: /img/62047002_1294498970712343_5624151964922150912_n.jpg
       text: >
-        3. Aprendizaje festivo
+        3. Aprendizaje festivo:
 
         Sensibilizamos a los asistentes mostrando cifras globales y locales asociadas al desperdicios en términos sociales, económicos, ecológico y alimentario.  
 
