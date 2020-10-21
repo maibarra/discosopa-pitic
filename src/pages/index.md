@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: "Disco Sopa Pitic "
+title: "          Disco Sopa Pitic "
 image: /img/p1340378.jpg
 heading: "A menor desperdicio, menos hambre "
 subheading: ¡Juntos podemos transformar el desperdicio en beneficios para
