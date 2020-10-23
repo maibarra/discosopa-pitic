@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
 path: /about
-title: "  "
+title: "Comunidad "
 ---
-###  **  .**
+ **  .**
