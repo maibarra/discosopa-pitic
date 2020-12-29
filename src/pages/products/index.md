@@ -4,8 +4,10 @@ path: /products
 templateKey: product-page
 title: Nuestra Misión
 image: /img/p1340380.jpg
-description: La reducción del desperdicio de alimentos para reducir el hambre en
-  nuestra comunidad  y por ende reducir el impacto  ambiental
+description: Somos una iniciativa ciudadana que tiene como objetivo la
+  concientización del desperdicio alimentario en nuestra comunidad mediante la
+  creación de espacios de aprendizaje, participación y colaboración en un
+  ambiente festivo y musical
 intro:
   blurbs: []
   heading: "      "
