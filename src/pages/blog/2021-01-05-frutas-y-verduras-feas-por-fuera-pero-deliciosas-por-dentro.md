@@ -2,11 +2,12 @@
 templateKey: blog-post
 title: Frutas y verduras feas por fuera pero deliciosas por dentro
 date: 2021-01-05T01:30:37.986Z
-description: >
-  Los alimentos subóptimos son aquellos productos que son considerados
-  imperfectos respecto a los productos regulares, puede ser con base en su
-  apariencia, fecha de vencimiento o empaque, pero aun así su calidad y
-  seguridad alimentaria es similar a la de un producto regular. 
+description: >-
+  Cuando vas al supermercado, ¿eliges las frutas y verduras por su apariencia? O
+  al momento de elegir un alimento en lata o envasado, ¿buscas el que no está
+  abollado, roto o con la fecha de caducidad más extendida?\
+
+  Si la respuesta es sí, estas comprando alimentos óptimos y descartando los subóptimos.
 featuredpost: false
 featuredimage: /img/adobestock_280652917.jpeg
 tags:
@@ -14,16 +15,11 @@ tags:
 ---
 *Escrito por: Leslie Mendivil*
 
-Cuando vas al supermercado, ¿eliges las frutas y verduras por su apariencia? O al momento de elegir un alimento en lata o envasado, ¿buscas el que no está abollado, roto o con la fecha de caducidad más extendida?\
-Si la respuesta es sí, estas comprando alimentos óptimos y descartando los subóptimos.
-
 Los alimentos subóptimos son aquellos productos que son considerados imperfectos respecto a los productos regulares, puede ser con base en su apariencia, fecha de vencimiento o empaque, pero aun así su calidad y seguridad alimentaria es similar a la de un producto regular. Según el movimiento ‘Food Waste’, el 40 por ciento de la cantidad total del desperdicio alimentario tiene que ver con la fruta y la verdura desechada por razones estéticas. Una investigación realizada por diversas universidades europeas, liderada por la Dra. Ilona de Hooge de la Universidad de Wageningen, Holanda en 2016, menciona cómo los consumidores rechazamos dichos productos por la calidad visual, sensorial o por la fecha de caducidad.
 
 En la última década se ha creado un movimiento impulsado fuertemente por la FAO (Organización de la Naciones Unidas para la Agricultura y la Alimentación); FDA en Estados Unidos; ASDA en Inglaterra; y la más famosa, en Francia con “Legumes Moches” del supermercado Intermaché. Estas campañas buscan promover la venta de fruta y vegetales imperfectas, cuya creación ha sido desde colectivos como Food Waste, hasta cadenas de minoristas e incluso la revista National Geographic, quien se unió a este movimiento de consumidores conscientes con una edición impresa de su revista y un documental titulado “We Waste”.
 
 ![](/img/ek9sm_txsasuk7j.jpg)
-
-
 
 ![](/img/inglorious-fruits-and-vegetables-v800.jpg)
 
