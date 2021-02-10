@@ -3,6 +3,8 @@ templateKey: about-page
 path: /about
 title: "Más educación, menos desperdicio "
 ---
+![](/img/educación-desperdicio_.png)
+
 <!--StartFragment-->
 
 ### **[Registro Aquí](https://visiblesonora.org/mas-educacion-menos-desperdicios)**
