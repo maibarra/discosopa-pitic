@@ -7,8 +7,6 @@ title: "Más educación, menos desperdicio "
 
 ![](/img/educación-desperdicio_.png)
 
-<!--StartFragment-->
-
 **Objetivo general**
 
 El objetivo general de estos talleres es compartir información sobre cómo el desperdicio de alimentos que se desechan en casa se convierte en un problema ambiental que nos perjudica a todos. Aprenderemos nuevas estrategias para combatir el desperdicio de alimentos y seremos capaces de hacer cambios sencillos en nuestra vida diaria y así mitigar este problema.
