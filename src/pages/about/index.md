@@ -3,13 +3,11 @@ templateKey: about-page
 path: /about
 title: "Más educación, menos desperdicio "
 ---
-
-
 # **[Registro Aquí](https://visiblesonora.org/mas-educacion-menos-desperdicios)**
 
 ![](/img/banner-educacion-desperdicio3_mesa-de-trabajo-1-1536x408.jpg)
 
-**Objetivo general**
+
 
 El objetivo general de estos talleres es compartir información sobre cómo el desperdicio de alimentos que se desechan en casa se convierte en un problema ambiental que nos perjudica a todos. Aprenderemos nuevas estrategias para combatir el desperdicio de alimentos y seremos capaces de hacer cambios sencillos en nuestra vida diaria y así mitigar este problema.
 
