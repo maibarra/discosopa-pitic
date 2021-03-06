@@ -20,8 +20,8 @@ tags:
   - CIAD
   - SOMEICCA
 ---
-Categoría 24- 40 años 
+# Categoría 24- 40 años 
 
-![Autores: Luis Alfonso Jiménez Ortega,Luis Alfonso Jiménez Ortega. En este cartel nos invitan a crear huertos familiares y si ya se cuenta con uno, algunas recetas de bioplaguicidas para conservarlos y evitar el uso de productos químicos. ](/img/jiménez-ortega-luis-alfonso-josé-basilio-heredia.-cartel-bioplaguicidas-para-control-de-la-huerta-familiar-1.png "BIOPLAGUICIDAS CASEROS PARA EL CONTROL DE PLAGAS EN LA HUERTA FAMILIAR")
+![Autores: Luis Alfonso Jiménez Ortega,Luis Alfonso Jiménez Ortega. En este cartel nos invitan a crear huertos familiares y si ya se cuenta con uno, algunas recetas de bioplaguicidas para conservarlos y evitar el uso de productos químicos. ](/img/jiménez-ortega-luis-alfonso-2-.jpg "BIOPLAGUICIDAS CASEROS PARA EL CONTROL DE PLAGAS EN LA HUERTA FAMILIAR")
 
-![Autores: Luis Alfonso Jiménez Ortega,Luis Alfonso Jiménez Ortega.En este cartel nos invitan a seguir recomendaciones para reducir desperdicios en nuestros hogares.](/img/jiménez-ortega-luis-alfonso-basilio-heredia-j.-cartel-recomendaciones-1.png "RECOMENDACIONES PARA EVITAR EL DESPERDICIO DE ALIMENTOS EN EL HOGAR")
+![Autores: Luis Alfonso Jiménez Ortega,Luis Alfonso Jiménez Ortega.En este cartel nos invitan a seguir recomendaciones para reducir desperdicios en nuestros hogares.](/img/jiménez-ortega-luis-alfonso-1-.jpg "RECOMENDACIONES PARA EVITAR EL DESPERDICIO DE ALIMENTOS EN EL HOGAR")
