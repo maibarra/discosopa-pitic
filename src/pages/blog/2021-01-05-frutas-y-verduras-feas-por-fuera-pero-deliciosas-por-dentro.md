@@ -11,7 +11,10 @@ description: >-
 featuredpost: false
 featuredimage: /img/adobestock_280652917.jpeg
 tags:
-  - Productos Suboptimos Suboptimal food food waste desperdicio alimentario
+  - Productos Suboptimos
+  - Suboptimal food
+  - food waste
+  - desperdicio alimentario
 ---
 *Escrito por: Leslie Mendivil*
 
