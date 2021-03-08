@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Carteles Virtuales: Más educación, menos desperdicio "
-date: 2021-03-06T21:56:00.000Z
+date: 2021-03-08T19:44:26.617Z
 description: >
   En el marco del Foro Virtual "Frente al cambio climático: más educación, menos
   desperdicio" se invitamos a todo el público a  participar investigando,
