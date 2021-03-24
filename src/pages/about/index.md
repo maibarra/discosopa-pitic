@@ -21,4 +21,6 @@ Los participantes de este taller serán capaces de actuar de una forma amigable 
 
 <!--EndFragment-->
 
-# **[Registro Aquí](https://visiblesonora.org/mas-educacion-menos-desperdicios)**
+Hicimos un **[Manual](https://issuu.com/laura8am/docs/manual_m_seducaci_n_menosdesperdicio-comprimido)** para quienes quieran impartir los talleres de más educación menos, desperdicio. O llevar a cabo en sus hogares mejores practicas  y así reducir el desperdicio de alimentos, esperemos que lo disfrutren. 
+
+![]()
