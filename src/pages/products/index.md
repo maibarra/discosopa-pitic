@@ -31,7 +31,7 @@ testimonials:
   - author: Participante Disco Sopa 2020
     quote: (...) Fue mi primer experiencia. Me encantó ver que la gente se juntó al
       final para comer en su propio plato y cubiertos. ¡Muchas felicidades!
-full_image: /img/products-full-width.jpg
+full_image: /img/2-01.jpeg
 pricing:
   heading: ¿Qué hacemos?
   description: Colaboramos en la creación de espacios de aprendizaje para
